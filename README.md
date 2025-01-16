@@ -5,3 +5,4 @@
 3) SELECT DISTINCT, WHERE and Logical Operators
 4) UPDATE, DELETE and ALTER
 5) Backing Up Science_class Database
+6) IN, BETWEEN, LIKE
