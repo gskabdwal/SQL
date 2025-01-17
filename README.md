@@ -6,3 +6,4 @@
 4) UPDATE, DELETE and ALTER
 5) Backing Up Science_class Database
 6) IN, BETWEEN, LIKE
+7) ORDER BY and LIMIT
