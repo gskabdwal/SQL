@@ -7,3 +7,4 @@
 5) Backing Up Science_class Database
 6) IN, BETWEEN, LIKE
 7) ORDER BY and LIMIT
+8) AS, COUNT, SUM, AVG, MIN, MAX
