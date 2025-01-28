@@ -13,3 +13,4 @@
 11) Combining Queries (EXCEPT, INTERSECT, UNION) and CTE
 12) Subqueries
 13) VIEW and INDEX
+14) String Functions ( LENGTH, UPPER, LOWER, REPLACE, TRIM, SUBSTRING, STRING_AGG)
