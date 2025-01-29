@@ -14,3 +14,4 @@
 12) Subqueries
 13) VIEW and INDEX
 14) String Functions ( LENGTH, UPPER, LOWER, REPLACE, TRIM, SUBSTRING, STRING_AGG)
+15) Mathematical Functions ( FLOOR, CEIL, ROUND, POW, RANDOM, SETSEED )
