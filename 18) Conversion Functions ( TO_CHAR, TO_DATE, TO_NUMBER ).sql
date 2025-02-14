@@ -1,0 +1,11 @@
+SELECT * FROM sales;
+SELECT * FROM product;
+SELECT * FROM customer;
+
+-- TO_DATE and TO_CHAR
+SELECT TO_CHAR(TO_DATE('1998-03-14','yyyy-mm-dd'), 'Month');
+
+-- TO_NUM
+SELECT TO_NUMBER('3456.98','9999.99');
+
+SELECT TO_NUMBER('$90,000,000.98','$99,999,999.99');
