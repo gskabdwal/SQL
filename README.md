@@ -18,4 +18,5 @@
 16) DateTime Functions ( CURRENTDATE, EXTRACT, AGE, DATEDIFF, TO_DATE )
 17) Regex
 18) Conversion Functions ( TO_CHAR, TO_DATE, TO_NUMBER )
+19) User Access Control Functions
 
