@@ -19,4 +19,5 @@
 17) Regex
 18) Conversion Functions ( TO_CHAR, TO_DATE, TO_NUMBER )
 19) User Access Control Functions
+20) Windows Functions ( ROW_NUMBER, RANK, DENSE_RANK, NTILE, COUNT, AVERAGE, SUM, Running SUM, LAG, LEAD )
 
